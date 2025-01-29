@@ -1,20 +1,14 @@
-# Free Fire Landing Page 🎮
+# Modelo de Landing Page para Games 🎮
 
-Landing Page profissional para o nicho de Garena Free Fire. Projetado com foco em **design responsivo** e **funcionalidade**, este projeto é ideal para jogadores e fãs do Free Fire.
+Landing Page profissional para o nicho de games. Projetado com foco em **design responsivo** e **funcionalidade**, este projeto é ideal para jogadores e fãs de guildas.
 
 
 ## Tecnologias Utilizadas
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 - Responsividade com Media Queries
 
-## Como Contribuir
-1. Faça um fork deste repositório.
-2. Crie uma nova branch: `git checkout -b minha-feature`.
-3. Faça suas alterações e commit: `git commit -m 'Minha nova feature'`.
-4. Envie para sua branch: `git push origin minha-feature`.
-5. Abra um Pull Request.
 
 ## Autor
 **Ryan Rodrigues**  
