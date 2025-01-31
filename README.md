@@ -4,7 +4,7 @@
 
 <p align="center">Lading-Page - @Code By Ryan</p>
 
-![Lading Page](https://github.com/user-attachments/assets/3e53fe8e-481a-4629-a1f9-1953000ebf31)
+![Lading Page](https://github.com/user-attachments/assets/70565fe5-4055-4849-9c93-e862328f921f)
 
 ## 🚀 Apresentação
 
